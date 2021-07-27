@@ -1,0 +1,2 @@
+FASTQ	dereplicated/dereplicated
+errors	errorrate/errorrate
